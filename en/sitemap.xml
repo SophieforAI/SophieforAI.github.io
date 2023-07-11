@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sophieforai.github.io/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -15,11 +15,8 @@
                 href="https://sophieforai.github.io/"
                 />
   </url><url>
-    <loc>https://sophieforai.github.io/post/0713/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
-  </url><url>
     <loc>https://sophieforai.github.io/categories/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -31,8 +28,11 @@
                 href="https://sophieforai.github.io/categories/"
                 />
   </url><url>
+    <loc>https://sophieforai.github.io/tags/hugo/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sophieforai.github.io/post/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -44,33 +44,8 @@
                 href="https://sophieforai.github.io/post/"
                 />
   </url><url>
-    <loc>https://sophieforai.github.io/tags/tag_name1/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/tags/tag_name2/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/tags/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://sophieforai.github.io/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sophieforai.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://sophieforai.github.io/categories/technology/</loc>
-    <lastmod>2023-07-10T20:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/post/0711/</loc>
-    <lastmod>2023-07-10T19:57:25+08:00</lastmod>
-  </url><url>
     <loc>https://sophieforai.github.io/series/</loc>
-    <lastmod>2023-07-09T22:13:19+08:00</lastmod>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -82,26 +57,21 @@
                 href="https://sophieforai.github.io/series/"
                 />
   </url><url>
-    <loc>https://sophieforai.github.io/post/0709/</loc>
-    <lastmod>2023-07-09T22:13:19+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-07-09T22:13:19+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/series/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-07-09T22:13:19+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/categories/%E7%AC%AC%E4%B8%80%E4%B8%AA/</loc>
-    <lastmod>2023-07-09T22:13:19+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-07-09T22:13:19+08:00</lastmod>
-  </url><url>
-    <loc>https://sophieforai.github.io/tags/hugo/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sophieforai.github.io/categories/syntax/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sophieforai.github.io/tags/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://sophieforai.github.io/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sophieforai.github.io/tags/"
+                />
   </url><url>
     <loc>https://sophieforai.github.io/series/themes-guide/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
