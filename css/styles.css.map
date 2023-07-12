@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/sophiesophie/blogs/blogProject/daidaiwo",
+	"sourceRoot": "D:/programs/blogs/blog/daidaiwo",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
