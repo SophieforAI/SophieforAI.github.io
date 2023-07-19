@@ -10,18 +10,18 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'en';
-const baseURL = 'https://roaring-faloodeh-3cd6c9.netlify.app/';
+const baseURL = 'https://jingyi.work/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = 'Resultados';
-const searchResultsLabel = 'Resultados da pesquisa';
-const shortSearchQuery = 'A consulta é muito curta'
-const typeToSearch = 'Digite para pesquisar';
-const noMatchesFound = 'Nenhum resultado encontrado';
+const quickLinks = 'Results';
+const searchResultsLabel = 'Search Results';
+const shortSearchQuery = 'Query is too short'
+const typeToSearch = 'Type to search';
+const noMatchesFound = 'No results found';
 
 ;
 // global variables
