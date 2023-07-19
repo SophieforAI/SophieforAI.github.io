@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Clarity</title>
+    <link>https://jingyi.work/categories/technology/</link>
+    <description>Recent content in Technology on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 19 Jul 2023 21:26:44 +0800</lastBuildDate><atom:link href="https://jingyi.work/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0719</title>
+      <link>https://jingyi.work/post/0719/</link>
+      <pubDate>Wed, 19 Jul 2023 21:26:44 +0800</pubDate>
+      
+      <guid>https://jingyi.work/post/0719/</guid>
+      <description>
+        
+          
+            今天换了个网站，以及将hugo config里面的baseurl改为实际的domain，哈哈，结果就成了，并不是assets目录的问题，终于有个结果了，折腾了好几天。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
