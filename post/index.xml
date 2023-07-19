@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Clarity</title>
+    <title>Posts on 中文</title>
     <link>https://jingyi.work/post/</link>
-    <description>Recent content in Posts on Clarity</description>
+    <description>Recent content in Posts on 中文</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Wed, 19 Jul 2023 21:26:44 +0800</lastBuildDate><atom:link href="https://jingyi.work/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -84,6 +84,24 @@
             The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.
 To create a notice on a page, you can use the notice shortcode.
 You use the notice shortcode, with the first parameter being one of note, info, tip, and warning. Then add a title for your note in quotes as the second parameter. The inner body of the note can be whatever markdown you want to create.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>https://jingyi.work/post/markdown-syntax.pt/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingyi.work/post/markdown-syntax.pt/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Artigo original: https://jingyi.work/post/markdown-syntax/&lt;/p&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
           
           
         
