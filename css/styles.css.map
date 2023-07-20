@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/sophiesophie/Documents/blogs/blogProject/daidaiwo",
+	"sourceRoot": "D:/programs/blogs/daidaiwo",
 	"sources": [
 		"assets/sass/main.sass",
 		"assets/sass/_variables.sass",

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://jingyi.work/en/sitemap.xml</loc>
+    <loc>https://jingyi.work/zh/sitemap.xml</loc>
+    
+      <lastmod>2023-07-19T21:26:44+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://jingyi.work/zh/sitemap.xml</loc>
-    
-      <lastmod>2023-07-19T21:26:44+08:00</lastmod>
+    <loc>https://jingyi.work/en/sitemap.xml</loc>
     
   </sitemap>
   
