@@ -9,7 +9,7 @@ const pageHasLoaded = 'DOMContentLoaded';
 const imageAltClass = 'img_alt';
 
 
-const defaultSiteLanguage = 'zh';
+const defaultSiteLanguage = 'en';
 const baseURL = 'https://jingyi.work/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';

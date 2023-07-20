@@ -9,7 +9,7 @@ const pageHasLoaded = 'DOMContentLoaded';
 const imageAltClass = 'img_alt';
 
 
-const defaultSiteLanguage = 'zh';
+const defaultSiteLanguage = 'en';
 const baseURL = 'https://jingyi.work/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
@@ -17,11 +17,11 @@ const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = '';
-const searchResultsLabel = '';
-const shortSearchQuery = ''
-const typeToSearch = '';
-const noMatchesFound = '';
+const quickLinks = 'Results';
+const searchResultsLabel = 'Search Results';
+const shortSearchQuery = 'Query is too short'
+const typeToSearch = 'Type to search';
+const noMatchesFound = 'No results found';
 
 ;
 // global variables
