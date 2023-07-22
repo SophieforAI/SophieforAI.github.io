@@ -1,45 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clarity</title>
+    <title>daidaiwo</title>
     <link>https://jingyi.work/</link>
-    <description>Recent content on Clarity</description>
+    <description>Recent content on daidaiwo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Jul 2023 21:26:44 +0800</lastBuildDate><atom:link href="https://jingyi.work/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>0719</title>
-      <link>https://jingyi.work/post/0719/</link>
-      <pubDate>Wed, 19 Jul 2023 21:26:44 +0800</pubDate>
-      
-      <guid>https://jingyi.work/post/0719/</guid>
-      <description>
-        
-          
-            今天换了个网站，以及将hugo config里面的baseurl改为实际的domain，哈哈，结果就成了，并不是assets目录的问题，终于有个结果了，折腾了好几天。
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>今天的第一篇博客</title>
-      <link>https://jingyi.work/post/0712/</link>
-      <pubDate>Wed, 12 Jul 2023 19:41:27 +0800</pubDate>
-      
-      <guid>https://jingyi.work/post/0712/</guid>
-      <description>
-        
-          
-            今天终于学会了发博客，还是蛮开心的 另外，今天挑选了一个榴莲，圆鼓鼓的，价格很便宜，核还小 解决一个问题 重新发布不上去了
-          
-          
-        
-      </description>
-    </item>
-    
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://jingyi.work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo page bundles</title>
       <link>https://jingyi.work/post/bundle/</link>
@@ -114,6 +82,8 @@ You use the notice shortcode, with the first parameter being one of note, info, 
       <guid>https://jingyi.work/post/rich-content/</guid>
       <description>
         
+          
+            这个到底是那个时候文章的呀
           
           
         
