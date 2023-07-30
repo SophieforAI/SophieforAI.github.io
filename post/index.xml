@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://jingyi.work/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://jingyi.work/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B站视频</title>
+      <link>https://jingyi.work/post/rich-content/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingyi.work/post/rich-content/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>今日份心情</title>
       <link>https://jingyi.work/post/20230721mood/</link>
