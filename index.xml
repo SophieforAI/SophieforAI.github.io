@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://jingyi.work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>今日份心情</title>
-      <link>https://jingyi.work/post/0721001/</link>
+      <link>https://jingyi.work/post/20230721mood/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0800</pubDate>
       
-      <guid>https://jingyi.work/post/0721001/</guid>
+      <guid>https://jingyi.work/post/20230721mood/</guid>
       <description>
         
           
@@ -25,15 +25,47 @@
     </item>
     
     <item>
+      <title>0720001</title>
+      <link>https://jingyi.work/post/0720001/</link>
+      <pubDate>Thu, 20 Jul 2023 10:28:05 +0800</pubDate>
+      
+      <guid>https://jingyi.work/post/0720001/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>看来跟文章命名是有关系的</title>
-      <link>https://jingyi.work/post/archives/0719/</link>
+      <link>https://jingyi.work/post/0719/</link>
       <pubDate>Wed, 19 Jul 2023 21:26:44 +0800</pubDate>
       
-      <guid>https://jingyi.work/post/archives/0719/</guid>
+      <guid>https://jingyi.work/post/0719/</guid>
       <description>
         
           
             今天换了个网站，以及将hugo config里面的baseurl改为实际的domain，哈哈，结果就成了，并不是assets目录的问题，终于有个结果了，折腾了好几天。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using Hugo page bundles</title>
+      <link>https://jingyi.work/post/bundle/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingyi.work/post/bundle/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
           
           
         
@@ -58,10 +90,10 @@
     
     <item>
       <title>真是奇怪</title>
-      <link>https://jingyi.work/post/archives/rich-content1111/</link>
+      <link>https://jingyi.work/post/rich-content1111/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://jingyi.work/post/archives/rich-content1111/</guid>
+      <guid>https://jingyi.work/post/rich-content1111/</guid>
       <description>
         
           
