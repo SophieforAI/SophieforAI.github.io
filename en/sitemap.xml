@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jingyi.work/</loc>
-    <lastmod>2023-07-30T00:00:00+08:00</lastmod>
+    <lastmod>2023-07-31T23:12:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -15,33 +15,11 @@
                 href="https://jingyi.work/"
                 />
   </url><url>
-    <loc>https://jingyi.work/post/rich-content/</loc>
-    <lastmod>2023-07-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/post/</loc>
-    <lastmod>2023-07-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/privacy/</loc>
-    <lastmod>2023-07-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/shortcodes/</loc>
-    <lastmod>2023-07-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/</loc>
-    <lastmod>2023-07-30T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://jingyi.work/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jingyi.work/tags/"
-                />
+    <loc>https://jingyi.work/post/230801/</loc>
+    <lastmod>2023-07-31T23:12:12+08:00</lastmod>
   </url><url>
     <loc>https://jingyi.work/categories/</loc>
-    <lastmod>2023-07-21T00:00:00+08:00</lastmod>
+    <lastmod>2023-07-31T23:12:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -53,8 +31,21 @@
                 href="https://jingyi.work/categories/"
                 />
   </url><url>
+    <loc>https://jingyi.work/post/</loc>
+    <lastmod>2023-07-31T23:12:12+08:00</lastmod>
+  </url><url>
+    <loc>https://jingyi.work/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-07-31T23:12:12+08:00</lastmod>
+  </url><url>
+    <loc>https://jingyi.work/about/</loc>
+    <lastmod>2023-07-02T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jingyi.work/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jingyi.work/search/</loc>
+  </url><url>
     <loc>https://jingyi.work/series/</loc>
-    <lastmod>2023-07-21T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -66,48 +57,16 @@
                 href="https://jingyi.work/series/"
                 />
   </url><url>
-    <loc>https://jingyi.work/series/videos/</loc>
-    <lastmod>2023-07-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/categories/%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-07-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/post/20230721mood/</loc>
-    <lastmod>2023-07-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2023-07-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/post/0720001/</loc>
-    <lastmod>2023-07-20T10:28:05+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/tag_name1/</loc>
-    <lastmod>2023-07-20T10:28:05+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/tag_name2/</loc>
-    <lastmod>2023-07-20T10:28:05+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/categories/technology/</loc>
-    <lastmod>2023-07-20T10:28:05+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/about/</loc>
-    <lastmod>2023-07-02T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/tags/hugo/</loc>
-    <lastmod>2022-03-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/categories/syntax/</loc>
-    <lastmod>2022-03-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/series/themes-guide/</loc>
-    <lastmod>2022-03-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/post/bundle/</loc>
-    <lastmod>2022-03-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jingyi.work/search/</loc>
+    <loc>https://jingyi.work/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://jingyi.work/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jingyi.work/tags/"
+                />
   </url>
 </urlset>
